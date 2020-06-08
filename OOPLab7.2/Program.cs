@@ -35,7 +35,7 @@ namespace OOPLab7._2
                             continue;
                         else
                         {
-                            Console.WriteLine("Ви ввели некоректне значення, введiть нове: ");
+                            Console.WriteLine(" Ви ввели некоректне значення, введiть нове: ");
                             input = Console.ReadLine();
                             a = true;
                             break;
